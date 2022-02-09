@@ -85,7 +85,7 @@ span {
     grid-template-columns: 1fr 1fr;
   }
 }
-@media (min-width: 768px) {
+@media (min-width: 825px) {
   .courses-container {
     grid-template-columns: 1fr 1fr 1fr;
   }
@@ -99,7 +99,7 @@ span {
 }
 .course__title {
   padding: 0 1rem;
-  min-height: 5rem;
+  min-height: 7rem;
 }
 .course__info {
   padding: 0 0.5rem 0.5rem;
